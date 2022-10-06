@@ -1,0 +1,17 @@
+{
+  "build/main.css": "/build/main.css",
+  "build/main.js": "/build/main.js",
+  "build/images/preview.gif": "/build/images/preview.gif",
+  "build/images/background.png": "/build/images/background.png",
+  "build/images/preview.png": "/build/images/preview.png",
+  "build/images/yoo.mp3": "/build/images/yoo.mp3",
+  "build/images/sad.mp3": "/build/images/sad.mp3",
+  "build/images/opensea2.png": "/build/images/opensea2.png",
+  "build/images/fart.mp3": "/build/images/fart.mp3",
+  "build/images/twitter3.png": "/build/images/twitter3.png",
+  "build/images/opensea0.png": "/build/images/opensea0.png",
+  "build/images/twitter0.png": "/build/images/twitter0.png",
+  "build/images/etherscan0.png": "/build/images/etherscan0.png",
+  "build/images/fav.png": "/build/images/fav.png",
+  "build/images/logo.png": "/build/images/logo.png"
+}
